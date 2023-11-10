@@ -1,0 +1,332 @@
+@media (max-width:1440px){
+    .Mobile_content {
+        margin-top: 121px;
+    }
+    .SliderIcon_1 {
+        height: 40vh;
+      }
+    .SliderIcon_2 {
+        height: 40vh;
+      }
+}
+@media (max-width:1366px){
+    
+}
+
+
+@media (max-width:1024px){
+    .PhoneImg img {
+        margin-left: -41px;
+    }
+
+    .Mobile_content {
+        margin-top: 104px;
+    }
+
+    .mobile_border {
+        width: 82px;
+    }
+    .bit_coin_img img {
+     
+        width: 35vh;
+    }
+    .icons {
+        bottom: 40%;
+        left: 3%;
+    }
+}
+/* .................1024 end............... */
+/* .................1024 end............... */
+
+
+
+@media (max-width:768px){
+    .NavRasponsive{
+        text-align: center;
+    }
+    .CustomBtn {
+        margin-left: 264px;
+    }
+    .BannerContent p{
+        padding: 10px;
+    }
+    .BannerContent .pk{
+        width: 145px;
+    }
+    .TopNav p {
+        width: 600px;
+    }
+    .BannerContent .ma{
+        /* margin-left: -57px; */
+    }
+    .content_mill{
+        display: flex;
+        justify-content: space-between;
+     }
+     .BannerContent h1 {
+        font-weight: bold;
+        padding: 10px 0;
+        font-size: 29px;
+    }
+    .CustomCard i {
+        font-size: 40px;
+        padding: 23px 0 20px 0;
+    }
+    .CustomCard p {
+        font-size: 13px;
+    }
+ 
+
+    .PhoneImg img {
+        display: none;
+    }
+
+    .Mobile_content {
+        margin-top: 80px;
+        margin-left: -328px;
+    }
+
+    .mobile_border {
+        width: 56px;
+    }
+    .mobiles {
+        min-height: 70vh;
+    }
+    .bit_coin_img img {
+        width: 20vh;
+    }
+    .icon_content_4 {
+        top: 34%;
+        right: 25%;
+    }
+    .VlogContentContents p {
+        font-size: 10px;
+    }
+    .VlogContentContents h5 {
+        font-size: 14px;
+    }
+    .icons {
+        bottom: 37%;
+    }
+    .icons {
+        bottom: 38%;
+        left: 2%;
+        height: 30px;
+        width: 30px;
+    }
+    .footer_icon_fon i {
+        margin-left: 4px;
+    }
+    .footer_content p {
+        font-size: 13px;
+    }
+    .footer h5 {
+        font-size: 20px;
+    }
+    .footer_contact_content h6 {
+        font-size: 14px;
+    }
+    .footer_content p {
+        font-size: 11px;
+    }
+    .footer_content ul li a {
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .footer_contact_icon {
+        margin: 15px 0;
+    }
+    .last_footer {
+        display: none;
+    }
+}
+
+/* responsive-------768--------------------end */
+/* responsive-------768--------------------end */
+/* responsive-------768--------------------end */
+
+@media (max-width:576px){
+    .TopMenu ul {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .TopNav {
+        text-align: center;
+    }
+    .TopNav p{
+        width: 525px;
+    }
+    /* .NavRasponsive{
+        text-align: center;
+    } */
+    .CustomBtn{
+        margin-left: 175px;
+    }
+    .CardRasponsive {
+        margin-top: 20px;
+    }
+
+    .Mobile_content {
+        margin-left: 22px;
+    }
+    .mobile_border {
+        height: 38px;
+    }
+    .icon_content{
+        display: none;
+    }
+    .icon_content_2{
+        display: none;
+    }
+    .icon_content_3{
+        display: none;
+    }
+    .icon_content_4{
+        display: none;
+    }
+    .icon_content_5{
+        display: none;
+    }
+    .icon_content_6{
+        display: none;
+    }
+    .bit_coin_img img {
+        width: 28vh;
+    }
+    .bit_coin {
+        padding: 25px 0;
+    }
+    .count_contents {
+        padding: 20px 0;
+    }
+    .service_content p {
+        font-size: 12px;
+    }
+    .forms form input {
+        margin-top: 10px;
+    }
+    .content_tt {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .VlogCardContent {
+        border: none;
+    }
+    .vlog_content_bootom {
+        padding: 0px 84px;
+    }
+    .VlogImg {
+        text-align: center;
+    }
+    .icons {
+        bottom: 17%;
+        left: 16%;
+    }
+    .SliderIcon_2 i {
+        display: none;
+    }
+    .SliderIcon_1 i {
+        display: none; 
+    }
+    .Display{
+        display: none;
+    }
+    .footer h5 {
+        padding-top: 10px;
+    }
+}
+
+/* responsive-------576--------------------end */
+/* responsive-------576--------------------end */
+/* responsive-------576--------------------end */
+@media (max-width:425px){
+    .CustomBtn {
+        margin-left: 110px;
+    }
+    .TopHeader {
+        display: none;
+    }
+    .BannerContent h5 {
+        font-size: 15px;
+    }
+    .Banner {
+        min-height: 63vh;
+    }
+    .BannerContent {
+        height: 61vh;
+    }
+    .BannerBtn .CustomBtn {
+        margin: 10px;
+        width: 60%;
+    }
+    .BannerContent h1 {  
+        font-size: 19px;
+    }
+
+    .ServiceContent p {
+        font-size: 10px;
+        width: 80%;
+        margin: auto;
+    }
+    .Mobile_content {
+        
+        margin-left: 29px;
+    }
+
+    .mobile_border {
+        height: 40px;
+       
+    }
+    .mobile_border_contents p {
+        font-size: 10px;
+        padding-top: 7px;
+    }
+
+    .mobiles {
+        min-height: 67vh;
+    }
+    .ServiecSection p {
+        margin-bottom: 10px !important;
+    }
+    .bit_coin {
+        padding: 20px 0;
+    }
+    .vlog_content_bootom {
+        padding: 0px 26px;
+    }
+    .icons {
+        left: 9%;
+    }
+}
+
+/* responsive-------425--------------------end */
+/* responsive-------425--------------------end */
+/* responsive-------425--------------------end */
+@media (max-width:375px){
+    .icons {
+        bottom: 22%;
+        left: 3%;
+    }
+    .vlog_content_bootom {
+        padding: 10px 0px;
+    }
+}
+
+@media (max-width:320px){
+    .CustomBtn {
+        margin-left: 59px;
+    }
+
+    .mobile_border {
+        height: 30px;
+    }
+
+    .Mobile_content h3 {
+       font-size: 14px
+    }
+    .icons {
+        bottom: 25%;
+        left: 2%;
+    }
+}
